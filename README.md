@@ -7,7 +7,7 @@
 - css
   
 
-## about
+## 📂 about
 i have created this landing page with basic knowledge of what i have already studied in  
 - HTML
 - CSS
