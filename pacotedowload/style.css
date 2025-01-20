@@ -123,16 +123,24 @@ section img{
     }
 
     .imagem-principal{
-        background-size: cover;
+        background: #000;
         height: 100vh;
     }
 
+    .imagem-principal img{
+        display: none;
+    }
+
     section h1{
+        color: #fff;
+        text-align: center;
+        width: 100%;
         font-size: calc(1vw + 1em);
     }
 
     .text p{
         font-size: calc(1vw + 0.5em);
         text-align: center;
+        color: #fff;
     }
 }
